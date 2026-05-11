@@ -1,6 +1,6 @@
-# Hi, I'm Akubuko Japhet Uchenna 👋
+# Hi, I'm Akubuko Japhet Uchenna
 
-## 🚀 Cloud & DevOps Enthusiast | Linux Learner | AWS Practitioner
+##  Cloud & DevOps Enthusiast | Linux Learner | AWS Practitioner
 
 I am currently building my career in **Cloud Engineering and DevOps**, with hands-on experience in Linux, AWS, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, and CI/CD automation.
 
